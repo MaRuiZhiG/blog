@@ -1,0 +1,11 @@
+baseURL = "https://MaRuiZhiG.github.io/blog/"
+languageCode = "zh-cn"
+title = "My Blog"
+theme = "papermod"
+
+[params]
+  author = "MaRuiZhi"
+  description = "Personal blog powered by Hugo + GitHub Pages"
+
+[taxonomies]
+  tag = "tags"
