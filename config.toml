@@ -1,7 +1,7 @@
 baseURL = "https://MaRuiZhiG.github.io/blog/"
 languageCode = "zh-cn"
 title = "My Blog"
-theme = "papermod"
+theme = "PaperMod"
 
 [params]
   author = "MaRuiZhi"
