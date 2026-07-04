@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes 服务网格实战指南——从「为什么」到「怎么做」"
-date: 2026-07-04T23:00:00+08:00
+date: 2026-07-04T14:00:00+08:00
 tags: ["kubernetes", "service-mesh", "istio", "linkerd", "kuma", "envoy", "mtls", "sidecar", "cloud-native", "devops"]
 author: "MaRuiZhi"
 slug: "kubernetes-service-mesh-guide"
